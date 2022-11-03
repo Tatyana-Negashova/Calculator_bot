@@ -4,7 +4,7 @@ import logging
 
 telebot.apihelper.ENABLE_MIDDLEWARE = True
 
-bot = telebot.TeleBot('5401167389:AAGR2FVdQE15GOeHGSI1Ath0msUlOlV_jag')
+bot = telebot.TeleBot('5558749105:AAHuhU8XJOMfT-DqM0xgkUD0niBMIQ4-d0o')
 
 markup = types.ReplyKeyboardMarkup(resize_keyboard=True, row_width=2)
 
